@@ -1,0 +1,6 @@
+interface:
+  display_name: "Etsy HyperFrames Video"
+  short_description: "Create accurate, polished Etsy product videos"
+  default_prompt: "Use $etsy-hyperframes-video to turn this Etsy listing into a polished, narrated product video."
+policy:
+  allow_implicit_invocation: true
